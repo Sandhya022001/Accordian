@@ -1,0 +1,14 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+.accoGroup .card-body{
+	display: none;
+	}
+.accoGroup .card-body.active{
+	display: block;
+}
+ .accoGroup .card-header{
+	cursor : pointer;
+}
